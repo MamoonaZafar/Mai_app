@@ -9,7 +9,7 @@ const Partner = (props: Props) => {
 <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
   
   <div className="w-2/3 sm:w-1/2 lg:w-1/3 mx-auto text-center mb-6">
-    <h2 className="text-gray-600 dark:text-gray-400">Our Partners coming soon</h2>
+    <h2 className="flex justify-center pt-5 text-2xl items-center font-bold text-black sm:text-2xl lg:text-2xl lg:leading-tight">Our Partners coming soon</h2>
   </div>
 
   <div className="flex justify-center gap-x-4 sm:gap-x-10 lg:gap-x-20">
